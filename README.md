@@ -6,7 +6,7 @@
  
  Student Email: s3608939@student.rmit.edu.au
  
-Background Information **Bold**
+**Background Information** 
  
 I am an Australian Citizen, born and raised in Brisbane, Queensland, in a family of ten children. 
 My parents were also born in Australia, however my grandparents, came from Wales, England & Ireland. 

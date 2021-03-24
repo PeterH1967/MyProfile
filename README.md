@@ -141,10 +141,135 @@ patients and their respective treatments.
 Link: https://www.16personalities.com/profiles/1c34aa9dde777
 
 2. Learning Style Test:
-Link: What's Your Learning Style? The Results
+Link: C:\Users\Darrin DeYoung\Documents\RMIT\What's Your Learning Style_ The Results.html
 
 3. Psychometric Test:
 Link: https://www.psychometricinstitute.com.au/report-free.asp?ctid=10451008
+
+**What do the results mean for me?**
+
+I believe that the Myers-Briggs personality test, does reflect my personality accurately. I am driven and 
+focused on getting results, I believe that I am a good communicator and have a high level of empathy for 
+other people. I believe that I have a natural ability to get people’s confidence quickly and make them feel 
+comfortable around me. Over many years, I have also been involved in training and believe that I have the 
+patience and understanding to listen to others and their ideas. In my management roles, I have always 
+listened to my staff and accepted their judgement and criticisms and used their input to implement changes. 
+I would always encourage my staff and provide feedback which would be useful for them in the future endeavors. 
+All of these qualities are important to a team environment. 
+
+**How do you think these results may influence my behaviour in a team.**
+
+I have been in the work force since 1985 and have worked in many different working environments and been 
+part of many teams focused on various projects and driving them to a successful completion. 
+The Myres Brigg personality test does highlight some of the characteristics that I have developed over 
+the years, especially my ability to lead, accept responsibility for issues & concerns that have presented 
+themselves as well as had a high level of diplomacy and the ability to listen to others and 
+their ideas, which will be useful in working in a team for our project.
+
+**How should I take this into account when forming a team?**
+
+As Protagonists are strong personalities, I believe that in my experience with respect to teams of any type, 
+if there are too many strong personalities in a group, their will inevitably be clashes, which can often 
+create division, making any efforts to create drive a project, can be counter-productive.  In a group situation, 
+I would need to look for other group members who would compliment my personality type (ENFJ-A), 
+such as an ISFJ, INTP, ESTI or ESFP personality type.
+
+**PROJECT IDEA - BUSINESS TRAVELLER BOOKING APPLICATION**
+
+**Overview**
+
+My idea would be to create a simple app, where you could enter that dates of travel, the destination and the 
+times you were easily select the flight, accommodation and rental car required, hit the enter button provide 
+credit card details and then email to yourself an itinerary. I would like the app to pull availability 
+from websites, such as Webjet / Expedia / Travelocity, hotel.com / bookings.com and the from the respective 
+airline websites. I would like the app to be simple to use and all that would be required from the traveler 
+is the dates, times looking to travel, number of people traveling and the destination. 
+
+**Motivation**
+
+For many years, I have travelled the world on business and have been, more often than not, responsible for 
+coordinating and arranging my own flights, accommodation, rental cars and taxi’s. It was always quite a 
+chore to scroll through many websites and individually review the choices with respect to flights, 
+accommodation and rental cars. I believe that when arranging travel, unless you are a travel agent, 
+there are too many choices for flights, accommodation and rental cars. I believe there needs to be simpler 
+way because as stated in business travellers are now more than ever arranging their own travel and as 
+stated in the travelperk.com blog,  “business travellers are tech savy and less likely to stick, 
+outdated travel policies and methods”  
+
+Link: https://www.travelperk.com/blog/3-reasons-why-employees-should-book-their-own-business-travel/
+
+**Description**
+
+As stated in the Travelperk Blog, business travellers, “simply prefer self-booking over the agency route. 
+Self-booking lets them collect loyalty points, fly with their favourite airlines, even have the eco-friendly 
+option to choose trains over planes.” And the aim of my project idea is to create a simple Mobile Application 
+that streamlines the booking process for individuals and business travellers. It will be a simple format that 
+will allow the user to enter the basic requirements of the trip, such as the date, destination, standard of 
+hotel (1 to 5 stars), preferred location of hotel and flight times which will also provide options for other 
+flights around the same time as what has been requested. 
+
+This mobile application will allow the customer to create an account and a profile, which will include, any frequent 
+flyer memberships, Hotel & Rental Car Loyalty Program details as well as preferences for hotels, seating position 
+requests on flights and preferences for rental vehicles. The customer preferences can be stored and utilized each 
+time the member checks in to the mobile application and performs a search for the next business trip. 
+
+This idea would definitely, be useful for the business travellers, however there are several issues which may make 
+it difficult to bring it to fruition. It would be simple enough in design, using a number of Mobile Application 
+Tools available in the market, however the challenge would be the connectivity to the multitude of hotel, airline 
+and rental car booking sites worldwide. It would be more viable to connect with the broader booking engines, 
+like Webjet, Bookings.com & Hotels.com etc etc. Also considering the current worldwide situation with Covid 19, 
+it would work better to create a product just for the Australian market, as opposed to including the
+international market.
+
+The Application will search for availability from the respective search engines, based on the customer requirements 
+and deliver to a single platform on the Mobile Application and will provide the customer with a selection of 
+options that will suit the business travellers’ requirements. Once the selection has been made from the list 
+of flights, accommodation and rental cars, the details are confirmed, respective payment methods processed once 
+the details are confirmed, payment can be made via credit card and other payment methods and once payment 
+completed an itinerary can be emailed to the traveller. 
+
+With respect to booking hotels & airlines, there are specific booking/cancellation policies that need to be clear 
+and concise, to reduce the number of customer service issues that may arise. It is also important for the app 
+to provide a live chat and the ability for the consumer to communicate directly in case there are any issues, 
+with the online booking process. The application will allow changes and an itinerary email to the customer 
+once the entire booking has been completed. The design of the Mobile application has to be simple and easy to 
+navigate and not involve to much in the way of the graphics that will slow the site down. It needs to be quick 
+and effective and provide itinerary’s will costings that can be used for expense reimbursement purposes.
+
+https://www.travelperk.com/blog/3-reasons-why-employees-should-book-their-own-business-travel/
+
+**Tools & Technologies**
+
+The first plan of action would be to identify an open source software specifically designed for Flight/ Rental 
+Cars & Hotels reservations. The software should be able to provide live availability information, have the ability 
+to integrate with other platforms and allow multiple people to book using the mobile application, at the one time. 
+It should provide the ability to update calendars as well as secure payment methods. To create the booking 
+application, you could use software such as, getapp or capterra which assist with application development for 
+the travel industry. 
+
+**Skills Required**
+
+The skills required to build an app, require knowledge of programming language, for example, HTML5, Objective-C, 
+Swift, C++, C#, and Java. As it will be a live system, a sound knowledge of Microsoft Azure and Amazon Web Services, 
+as the application we create will live on the cloud. You will need to create a database for your customers, 
+which will mean that a skilled database expert will need to be identified, which will be important to make the 
+application run at a rapid speed and with relatively no issues. Security is an important issue that needs to be 
+addressed, therefore a person with sound knowledge of security systems, involving the protection of customer 
+information and payment methods will be required.  
+
+**Outcome**
+
+The outcome would be a product that will make business & individual travel simpler for the customer. It will cut 
+down the amount of time required to make a booking for flights/rental cars & hotels, in real time and that will 
+them to make changes and cancel reservations in a few simple steps. When you consider business travel especially, 
+how much time is spent going between, business travellers, managerial assistants and travel agents, this will make 
+the process quicker and negate the need for a travel agent altogether, reducing costs, allowing the customers to 
+identify special deals and rates that will in turn save the company money. 
+
+**References**
+
+Link: https://www.travelperk.com/blog/3-reasons-why-employees-should-book-their-own-business-travel/
+
 
 
 

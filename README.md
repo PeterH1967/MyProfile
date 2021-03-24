@@ -16,3 +16,20 @@ however my life took a different path and I spent many years working in
 Sales/Account Management & Marketing for various industries, including Hospitality, 
 Building & Construction and Information Technology. My main hobbies are keeping 
 fit and Singing in a band, which I enjoy immensely. 
+
+**Interest in IT**
+
+I have always been interested in IT ever since I was young boy, when I used to watch cartoons, 
+such as “The Jetsons” and “Dick Tracy”, which were from the 1970’s. It is also interesting 
+to note that some of the technology seen in these cartoons is available now. The watch that 
+Dick Tracy used to use and the video calls that they used to make in “The Jetsons”. My interest 
+in studying IT was inspired when I was contemplating a career change from Sales/Marketing and 
+Account Management, in 2019, whilst employed as a National Account Manager for a company 
+called, Ezestream, a company that provided Cable TV/Satellite Services, Chromecast, Digital Signage, 
+Encryption Services, Internet Services, Interactive Services, IPTV Services, Tablet Solutions 
+and Room Automation for Aged Care Facilities, Hotels, Hospitals & Mining Camps, throughout 
+the Asia Pacific. In this role, I became more interested in the technical aspect of the role 
+as opposed to the Sales & Account Management side of the position. This was a technical 
+Account Management role, where I had to liaise between Management and Owners of Hotels, 
+Hospitals and Mining Camps and our technical team, which required a high level of 
+understand of the technical aspects of the products. 

@@ -50,47 +50,6 @@ skills in Communication, Time Management, Problem Solving, Teamwork and Conflict
 Being a mature aged student, I understand the importance of being able to work and 
 collaborate with other people on projects to provide a successful result. 
 
-**Ideal Role**
-
-Job Description
-Job Header
-Mobile Application Developer
-
-About us
-Adherium is an international Respiratory eHealth company focused on patient adherence, remote 
-monitoring and data management solutions for patients, physicians, payers, and providers. 
-Our Hailie® sensor technology and cloud-based data platform enables physicians and payers to 
-optimally manage patients with difficult-to-treat and severe asthma and COPD, and reduce direct 
-and indirect healthcare costs.
-
-About the role
-This is an opportunity to be part of Adherium’s software development team delivering 
-clinically led applications and platform to support and enhance Adherium’s Respiratory Management 
-platform and services.
-
-Qualifications & experience
-
-•	3+ years Mobile Application development including strong knowledge of the Android/iOS SDK
-
-•	Experience in developing and debugging mobile applications
-
-•	Understanding the full mobile development life cycle
-
-•	Strong experience with RESTful API’s to connect c mobile applications to back-end systems 
-    and platforms
-    
-•	Demonstrable 2+ years React & Redux experience
-
-Tasks & responsibilities
-•	Define and develop applications and solutions inline with Project plans and defined 
-   scoping documentation
-   
-•	Design and develop user mobile applications and interfaces
-
-•	Document and maintain software design specifications, test plans, and 
-   operations and support guides
-
-Link: https://www.seek.com.au/job/51677010?type=standout#searchRequestToken=1c5d2382-26e0-4da6-b68a-de68ecaa9fbb
 
 
 

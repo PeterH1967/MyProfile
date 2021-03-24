@@ -6,7 +6,7 @@
  
  Student Email: s3608939@student.rmit.edu.au
  
-**Background Information** 
+**BACKGROUND INFORMATION** 
  
 I am an Australian Citizen, born and raised in Brisbane, Queensland, in a family of ten children. 
 My parents were also born in Australia, however my grandparents, came from Wales, England & Ireland. 
@@ -17,7 +17,7 @@ Sales/Account Management & Marketing for various industries, including Hospitali
 Building & Construction and Information Technology. My main hobbies are keeping 
 fit and Singing in a band, which I enjoy immensely. 
 
-**Interest in IT**
+**INTEREST IN INFORMATION TECHNOLOGY**
 
 I have always been interested in IT ever since I was young boy, when I used to watch cartoons, 
 such as “The Jetsons” and “Dick Tracy”, which were from the 1970’s. It is also interesting 
@@ -34,7 +34,7 @@ Account Management role, where I had to liaise between Management and Owners of 
 Hospitals and Mining Camps and our technical team, which required a high level of 
 understand of the technical aspects of the products. 
 
-**Why Choose RMIT**
+**WHY CHOOSE RMIT**
 
 Besides teaching me the necessary skills required to work in the IT industry and providing a solid 
 basis of technical knowledge, I believe that I will be able to further enhance my skills in 
@@ -42,13 +42,34 @@ Communication, Time Management, Problem Solving, Teamwork and Conflict Resolutio
 mature aged student, I understand the importance of being able to work and collaborate with 
 other people on projects to provide a successful result. 
 
-**What do I expect to learn during my studies**
+**WHAT DO I EXPECT TO LEARN FROM MY STUDIES**
 
 Besides teaching me the necessary skills required to work in the IT industry and providing 
 a solid basis of technical knowledge, I believe that I will be able to further enhance my 
 skills in Communication, Time Management, Problem Solving, Teamwork and Conflict Resolution. 
 Being a mature aged student, I understand the importance of being able to work and 
 collaborate with other people on projects to provide a successful result. 
+
+**MY IDEAL ROLE**
+
+**Mobile Application Developer**
+
+**About us**
+
+Adherium is an international Respiratory eHealth company focused on patient adherence, 
+remote monitoring and data management solutions for patients, physicians, payers, and 
+providers. Our Hailie® sensor technology and cloud-based data platform enables 
+physicians and payers to optimally manage patients with difficult-to-treat and severe 
+asthma and COPD, and reduce direct and indirect healthcare costs.
+
+**About the role**
+
+This is an opportunity to be part of Adherium’s software development team delivering
+clinically led applications and platform to support and enhance Adherium’s Respiratory 
+Management platform and services.
+
+**Qualifications & Experience**
+
 
 
 

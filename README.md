@@ -33,3 +33,19 @@ as opposed to the Sales & Account Management side of the position. This was a te
 Account Management role, where I had to liaise between Management and Owners of Hotels, 
 Hospitals and Mining Camps and our technical team, which required a high level of 
 understand of the technical aspects of the products. 
+
+**Why Choose RMIT**
+
+Besides teaching me the necessary skills required to work in the IT industry and providing a solid 
+basis of technical knowledge, I believe that I will be able to further enhance my skills in 
+Communication, Time Management, Problem Solving, Teamwork and Conflict Resolution. Being a 
+mature aged student, I understand the importance of being able to work and collaborate with 
+other people on projects to provide a successful result. 
+
+**What do I expect to learn during my studies**
+
+Besides teaching me the necessary skills required to work in the IT industry and providing 
+a solid basis of technical knowledge, I believe that I will be able to further enhance my 
+skills in Communication, Time Management, Problem Solving, Teamwork and Conflict Resolution. 
+Being a mature aged student, I understand the importance of being able to work and 
+collaborate with other people on projects to provide a successful result. 

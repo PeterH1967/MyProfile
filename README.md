@@ -80,6 +80,19 @@ Strong experience with RESTful API’s to connect c mobile applications to back-
 
 Demonstrable 2+ years React & Redux experience
 
+**Tasks & Responsibilities**
+
+Define and develop applications and solutions inline with Project plans and defined 
+scoping documentation
+
+Design and develop user mobile applications and interfaces
+
+Document and maintain software design specifications, test plans, and operations 
+and support guides
+
+Link: https://www.seek.com.au/job/51677010?type=standout#searchRequestToken=1c5d2382-26e0-4da6-b68a-de68ecaa9fbb
+
+
 
 
 

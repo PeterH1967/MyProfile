@@ -69,16 +69,26 @@ clinically led applications and platform to support and enhance Adherium’s Res
 platform and services.
 
 Qualifications & experience
+
 •	3+ years Mobile Application development including strong knowledge of the Android/iOS SDK
+
 •	Experience in developing and debugging mobile applications
+
 •	Understanding the full mobile development life cycle
-•	Strong experience with RESTful API’s to connect c mobile applications to back-end systems and platforms
+
+•	Strong experience with RESTful API’s to connect c mobile applications to back-end systems 
+    and platforms
+    
 •	Demonstrable 2+ years React & Redux experience
 
 Tasks & responsibilities
-•	Define and develop applications and solutions inline with Project plans and defined scoping documentation
+•	Define and develop applications and solutions inline with Project plans and defined 
+   scoping documentation
+   
 •	Design and develop user mobile applications and interfaces
-•	Document and maintain software design specifications, test plans, and operations and support guides
+
+•	Document and maintain software design specifications, test plans, and 
+   operations and support guides
 
 Link: https://www.seek.com.au/job/51677010?type=standout#searchRequestToken=1c5d2382-26e0-4da6-b68a-de68ecaa9fbb
 

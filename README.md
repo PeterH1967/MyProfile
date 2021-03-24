@@ -70,6 +70,17 @@ Management platform and services.
 
 **Qualifications & Experience**
 
+3+ years Mobile Application development including strong knowledge of the Android/iOS SDK
+
+Experience in developing and debugging mobile applications
+
+Understanding the full mobile development life cycle
+
+Strong experience with RESTful API’s to connect c mobile applications to back-end systems and platforms
+
+Demonstrable 2+ years React & Redux experience
+
+
 
 
 

@@ -263,8 +263,9 @@ The outcome would be a product that will make business & individual travel simpl
 down the amount of time required to make a booking for flights/rental cars & hotels, in real time and that will 
 them to make changes and cancel reservations in a few simple steps. When you consider business travel especially, 
 how much time is spent going between, business travellers, managerial assistants and travel agents, this will make 
-the process quicker and negate the need for a travel agent altogether, reducing costs, allowing the customers to 
+the process quicker and negate the need for a travel agent altogether, reducing costs, allowing the customers to
 identify special deals and rates that will in turn save the company money. 
+
 
 **References**
 

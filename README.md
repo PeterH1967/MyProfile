@@ -6,6 +6,8 @@
  
  Student Email: s3608939@student.rmit.edu.au
  
+ <image src="RMIT Profile Picture.jpg" />
+ 
 **BACKGROUND INFORMATION** 
  
 I am an Australian Citizen, born and raised in Brisbane, Queensland, in a family of ten children. 

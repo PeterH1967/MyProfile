@@ -6,7 +6,7 @@
  
  Student Email: s3608939@student.rmit.edu.au
  
- <image src="RMIT Profile Picture.jpg" />
+ <image src="https://unsplash.com/photos/Q1p7bh3SHj8" />
  
 **BACKGROUND INFORMATION** 
  
